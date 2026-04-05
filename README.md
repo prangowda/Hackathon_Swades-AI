@@ -58,7 +58,7 @@ Create `.env` files in the respective directories:
 ```env
 DATABASE_URL=postgresql://user:pass@localhost:5432/db
 CORS_ORIGIN=http://localhost:3001
-OPENAI_API_KEY=your_sk_key
+OPENAI_API_KEY=sk-abcdef1234567890abcdef1234567890abcdef12
 ```
 
 **Web (`apps/web/.env`):**
