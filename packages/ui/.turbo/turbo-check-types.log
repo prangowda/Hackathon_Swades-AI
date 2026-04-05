@@ -1,0 +1,8 @@
+[6n[?9001h[?1004h[m]0;C:\WINDOWS\system32\cmd.exe[?25h]0;npm]0;npm run check-types⠙[?25l[H[?25h[?25l[K
+> @my-better-t-app/ui@0.0.0 check-types
+> tsc --noEmit[5;1H[K[?25h]0;C:\WINDOWS\system32\cmd.exe ⠙[1mnpm[22m [96mnotice[K[m[1m
+npm[22m [96mnotice [mNew [33mminor [mversion of npm available! [33m11.6.2 [m-> [34m11.12.1[m[1m
+npm[22m [96mnotice [mChangelog: [34mhttps://github.com/npm/cli/releases/tag/v11.12.1[m[1m
+npm[22m [96mnotice [mTo update run: [4mnpm install -g npm@11.12.1[24m
+[1mnpm[22m [96mnotice[K[m
+[?9001l[?1004l
